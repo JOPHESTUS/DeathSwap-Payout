@@ -1,0 +1,22 @@
+#######################################################
+#                DeathSwap Payout                     #
+#######################################################
+
+#Pay the winner?
+paywinner: true
+
+#How much do you want to pay the winner when (s)he wins?
+paywinneramount: 10
+
+#Would you like to give the loser money or take money from the loser ?
+# use "give" to give the loser money, use "take" to take money from the loser or use "false" to disable this option
+payloser: give
+
+#How much would you like to pay/takefrom the loser?
+loseramount: 3
+
+#Enable pay2play?
+paytoplay: true
+
+#How much will it cost to play?
+costtoplay: 10

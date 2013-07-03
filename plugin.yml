@@ -1,0 +1,7 @@
+author: JOPHESTUS
+main: me.jophestus.plugins.deathswappayout.DeathSwapPayout
+name: DeathSwap Payout
+startup: postworld
+url: http://jophest.us/
+version: '1.0'
+softdepend: [DeathSwap, Vault]
